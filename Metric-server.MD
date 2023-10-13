@@ -7,7 +7,7 @@ It collects metrics like CPU, memory or Disk IO consumption for containers or no
 
 ## Clone Metric-server helm chart on K8 Master
 ```sh
-git clone https://github.com/initsixcloud/metric-server.git
+https://github.com/Sanjo-varghese/Metric-server.git
 ```
 
 ## Create Metric Server
